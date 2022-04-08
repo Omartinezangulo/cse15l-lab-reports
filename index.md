@@ -6,6 +6,12 @@ hello world!
 ## heading 2
 ![Image](George_the_amazing_guinea_pig.jpg)
 
-*list
-*list
-*list
+-listing
+-list
+-list
+
+>Block quote
+1.one
+2.two
+3.three
+---
