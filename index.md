@@ -4,7 +4,8 @@ hello world!
 **Hello world**
 # heading 1
 ## heading 2
-![Image](George_the_amazing_guinea_pig.jpg)
+[Link](https://www.google.com/)
+![Image](https://assets.petco.com/petco/image/upload/f_auto,q_auto/849430-center-3)
 
 -listing
 -list
