@@ -18,4 +18,5 @@ Once downloaded you want to go into the termimnal VSCode and sign in using SSH. 
 
 5. Now, if you don't want to keep typing your password everytime you try to enter into the SSH, you can set it up with a SSH key. In the terminal write ssh-keygen and press enter. Then set the directory to where you want to save your keygen. From that, enter all the options that pop up as default. Once the key is generated, copy the public key and transfer it by using scp to the remote directory. Now you can go into SSH without putting in your password everytime.(on the right side). ![image](/images/image6.png)
 
-6. If you want to be more effecitve, you can put everything on a line of code. This made me run my code a little fast around 10 seconds faster.![image](/images/images/Screenshot%20(252).png)
+6. If you want to be more effecitve, you can put everything on a line of code. This made me run my code a little fast around 10 seconds faster.
+![image](/images/images/Screenshot%20(252).png)
