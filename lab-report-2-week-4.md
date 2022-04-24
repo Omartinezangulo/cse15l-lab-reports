@@ -29,7 +29,7 @@ If there is anything after the link then the file would go into a infinite loop 
 
 # #3 Code Change.
 
- ## My Commit Message.
+## My Commit Message.
  ![image](/images/Screenshot298.png)
  [Test File we fixed](https://github.com/wchester/markdown-parser/commit/9c06a935770e43f36587140ccb6ae5b7810a95b1)
 
