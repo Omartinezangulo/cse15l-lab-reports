@@ -27,7 +27,7 @@ If there is anything after the link then the file would go into a infinite loop 
 # Explanation  
  If there is nothing but just text, then it would not read anything and it would give you an error that is out of bounds. The way we fixed it was make a if statement that states ``` if the markdown.indexof("[, currentindex) equals -1 then return toReturn```. this checks if there is a bracket and if there is and it is on the last index then it returns nothing, same as if there wasn't. 
 
-# #3 Code Change.
+# 3 Code Change.
 
  ## My Commit Message.
  ![image](/images/Screenshot298.png)
