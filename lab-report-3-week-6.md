@@ -14,6 +14,7 @@ follow these steps.
 ## 2nd choice, Set up Github Access from ieng6 
 1. This is my public key in my github.![image](/images/Screenshot355.png)
 2. This is my private key to access it. ![image](/images/Screenshot356.png) 
+3. 
 
 ## 3rd choice, Copy Whole Directories with ```scp -r```
 
