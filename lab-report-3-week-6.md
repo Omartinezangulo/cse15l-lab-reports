@@ -2,7 +2,7 @@
 
 ## 1st choice, Streamline ssh Configration 
 
-Something that is common when you log in is you havew to type your whole ssh Username when trying to get into the server. You don't have to do that now! All you have to do is 
+Something that is common when you log in is you havew to type your whole ```ssh Username``` when trying to get into the server. You don't have to do that now! All you have to do is 
 follow these steps.
 
 1. First you want to go on to the terminal go back into your directory untill you get to users directory.then you want to type ``` cd .ssh```.![image](/images/Screenshot344.png)
@@ -13,3 +13,5 @@ follow these steps.
 ## 2nd choice, Set up Github Access from ieng6 
 
 ## 3rd choice, Copy Whole Directories with ```scp -r```
+
+Copying everything down to a directory is alot of work. But now we can avoid this with just a simple command.
