@@ -14,7 +14,7 @@ follow these steps.
 ## 2nd choice, Set up Github Access from ieng6 
 1. This is my public key in my github.![image](/images/Screenshot355.png)
 2. This is my private key to access it. ![image](/images/Screenshot356.png) 
-3. This is me using github commands and pushing it. ![image](/images/Screenshot361.png) And here is the link [link.](https://github.com/Omartinezangulo/markdown-parser/commit/53382e3b07165c766617858580251fb447d21a01)
+3. This is me using github commands and pushing it. ![image](/images/Screenshot361.png) (ignore the file above) And here is the link [link.](https://github.com/Omartinezangulo/markdown-parser/commit/53382e3b07165c766617858580251fb447d21a01)
 
 ## 3rd choice, Copy Whole Directories with ```scp -r```
 
