@@ -22,3 +22,4 @@ Copying everything down to a directory is alot of work. But now we can avoid thi
 1. You want to type ```$ scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse``` which lets you copy all your files to your account on the server. ![image](/images/Screenshot349.png)
 2. Then you can re sign in and you can open it up and see that all your files are in there. ![image](/images/Screenshot348.png)
 3. This is an example of what you can do once in your account. I was able to complie and run tests in the terminal. ![image](/images/Screenshot353.png)
+4. This is me running multiple commands at once.![image](/images/Screenshot360.png)
