@@ -1,4 +1,4 @@
-# Lab report 4
+# Lab report 4 
 
 ## Implementation
 [here](https://github.com/Omartinezangulo/markdown-parser)
@@ -48,3 +48,5 @@ My implementation didn't work becuase of the brackets and theres didn't work bec
 1.  For Snippet 1 it is possible to make these cases work in a small code change. To make ```url.com line 1``` readable, we can first check to start the parsing after the first closed bracket using the indexOf method.
 2.   Brackets within the variable name, we can check by seeing if there is an even amount of brackets there (which they should be in pairs). This could be checked with a code change. It should also read the brackets on the outer layer by looking and comparing the int value using indexOf. It should use open braket [  with the smallest int value and the closebraket ] with the largest int value.
 3.  With line conditions, there may be cases that may need to be accounted for because in some cases, new lines cause our system to not know when exactly parser should end for a link. This can happen by checking when openbracket ```]``` is there or not. It’s can be tricky as there may be no closing parenthesis at all. We can keep track of a counter that has the amount of characters/text that exist when reading past close parenthesis ) in order to stop it.
+ 
+ 
